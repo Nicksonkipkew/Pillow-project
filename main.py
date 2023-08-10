@@ -1,6 +1,6 @@
 from PIL import Image, ImageDraw, ImageFont
 
-# Define constant variables
+# Define constants variables
 CARD_WIDTH = 800
 CARD_HEIGHT = 600
 BACKGROUND_COLOR = (255, 255, 255)  # White
