@@ -1,5 +1,3 @@
-Sure, here's a README file template with headings and subheadings for the provided code:
-
 # Birthday Card Generator
 
 A Python script that generates a birthday card with customizable text and sender information using the PIL (Python Imaging Library) module.
